@@ -23,12 +23,55 @@
 .navbar{
     background-color: grey;
 }
-
-.navbar-brand{
+.nav-home{
+    color: white;
+    padding-right: 10px;
+}
+.nav-team{
+    color: white;
+    padding-right: 10px;
+}
+.nav-contact{
     color: white;
 
 }
-.nav-item{
-    display: flex;
-    align-items: center;
+
+nav a:hover {
+    text-decoration: none;
+    color: white;
 }
+
+.container{
+    padding: 50px;
+}
+
+h1{
+    margin-top: 60px;
+    padding: 20px;
+    
+}
+.bg-light{
+    display: flex;
+    text-align: center;
+    margin: 0px;
+    justify-content: space-between;
+}
+.img{
+    padding: 50px;
+    margin-left: 70px;
+}
+.pic-me{
+    font-weight: bold;
+}
+.my-img-profil{
+    border-radius: 999px;
+}
+.container{
+    height: 350px;
+}
+.container .row h3{
+    font-weight: bold;
+}
+
+
+
