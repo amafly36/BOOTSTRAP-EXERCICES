@@ -1,0 +1,34 @@
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.vert{
+    background-color: seagreen;
+}
+.gris{
+    background-color: gray;
+}
+.row{
+    margin: 20px;
+}
+
+
+/* exercice4*/
+
+.navbar{
+    background-color: grey;
+}
+
+.navbar-brand{
+    color: white;
+
+}
+.nav-item{
+    display: flex;
+    align-items: center;
+}
